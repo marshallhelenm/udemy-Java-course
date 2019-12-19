@@ -19,7 +19,7 @@ public class Main {
 
         int myIntValue = 5 / 2;
         float myFloatValue = 5f / 2f;
-        double myDoubleValue = 5d / 2d; //double data type is accepted by default much like int is for whole nums but you can add 'd' to the end for clarity
+        double myDoubleValue = 5.00 / 2d; //double data type is accepted by default much like int is for whole nums but you can add 'd' to the end for clarity
 
         System.out.println("MyIntValue= " + myIntValue);
         System.out.println("MyFloatValue= " + myFloatValue);
